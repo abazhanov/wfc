@@ -1,0 +1,40 @@
+html {
+	height: 100%;
+        padding: 0;
+        margin: 0;
+}
+body {
+    font-family: 'PT Sans Narrow', sans-serif;
+    background-color: white;
+}
+
+.footer {
+    height: 40px;
+    color: #6699ff;
+    background-color: #99ccff;
+    text-align: center;
+    padding-left: 50px;
+}
+
+.main{
+    display: inline-block;
+}
+
+/****** index ******/
+
+
+.index_label {
+    display: inline-block;
+    margin-top:  10px;
+    width: 50px;
+   
+    
+}
+
+.index_input {
+    width: 150px;
+}
+
+.index_submit {
+    margin-top: 10px;
+}
